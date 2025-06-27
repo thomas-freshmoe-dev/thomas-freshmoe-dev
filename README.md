@@ -14,10 +14,10 @@
   <img src="https://img.shields.io/badge/Check%20My-Code-blue?style=flat&logo=github" alt="Check My Code" />
 </a>
 
-![MASTER-HEAD](./assets/api_animated_gif.gif)
+![MASTER-HEAD](./api_animated_gif.gif)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EF7BB&width=850&height=40&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Thant+Lynn+Naing%2C+Thanks+for+visiting!;If+you+like+my+work%2C+consider+giving+my+repos+a+%E2%AD%90+%E2%80%94+it+really+helps!)](https://git.io/typing-svg)
-<img src="./assets/border_separator.gif">
+<img src=".//border_separator.gif">
 
 <div align="center">
   <h3>Profile Info</h3>
@@ -69,9 +69,9 @@
 
 <br>
 <div align="center">
-  <img src="./assets/terminal.gif" />
+  <img src=".//terminal.gif" />
 </div>
-<img src="./assets/border_separator.gif">
+<img src=".//border_separator.gif">
 
 <!-- Github Stats -->
 <div align="center">
@@ -196,7 +196,7 @@
 
 </div>
 
-<img src="./assets/border_separator.gif">
+<img src=".//border_separator.gif">
 
 ## 🌟 Enjoying My Projects?
 
