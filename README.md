@@ -119,7 +119,7 @@
         <hr width="675">
         <br>
         
-  [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,js,ts,py,dart,php,java,bash&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,ts&perline=10)](https://skillicons.dev)
       </p>
     </div>
   </kbd>
@@ -133,7 +133,7 @@
         <hr width="675">
         <br>
         
-  [![My Skills](https://skillicons.dev/icons?i=react,vue,flutter,angular,nextjs,laravel,fastapi,bootstrap,tailwind,vite,supabase,mysql,postgres,dynamodb&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,nextjs,,bootstrap,tailwind,vite&perline=10)](https://skillicons.dev)
       </p>
     </div>
   </kbd>
@@ -147,7 +147,7 @@
         <hr width="675">
         <br>
         
-  [![My Skills](https://skillicons.dev/icons?i=github,aws,gcp,githubactions,cloudflare,azure,vercel&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=github,,githubactions,vercel,netlify&perline=10)](https://skillicons.dev)
       </p>
     </div>
   </kbd>
@@ -161,7 +161,7 @@
         <hr width="675">
         <br>
         
-  [![My Skills](https://skillicons.dev/icons?i=arch,kali,linux,ubuntu,windows,discord,github,linkedin,instagram,stack-overflow&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=kali,linux,ubuntu,windows,github,linkedin,instagram,stack-overflow&perline=10)](https://skillicons.dev)
       </p>
     </div>
   </kbd>
@@ -175,7 +175,7 @@
         <hr width="675">
         <br>
         
-  [![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,eclipse,idea,postman&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postman&perline=10)](https://skillicons.dev)
       </p>
     </div>
   </kbd>
